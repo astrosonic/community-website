@@ -14,6 +14,9 @@ We are looking for people with some of the following modest requirements
 
 We are looking for only some of the above stated requirements. We understand that it would be very unfair if we ask a cybersecurity analyst to have an experience in design suites and a frontend designer to have an experience in C++. We would not do that. You are in for a quick chat about your interests and objectives if you satisfy any three (or more) of the above stated requirements before we welcome you in our community.
 
+!!! warning "Keep in mind"
+    In picking the three modest requirements from above, kindly consider two technical skills and one non-technical skill. Of course this is a bare minimum and you are free to have as many skills up your sleeve as you want.
+
 We will try our best to avoid unpleasantness so kindly note
 
 * You should not look for any kind of monetary advantage from any contribution
