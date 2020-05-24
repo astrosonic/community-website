@@ -17,10 +17,16 @@ Not aware how it works? It is okay. Read on the following points.
 * This pull request is for bringing together the changes made in your branch to the changes made in the primary branch of the source repository. The primary branch is generally known as master and the event of bringing together two branches is called merging.
 * Give the source owners some time. Let them review your changes and they will come back to you with more change requests. If all goes good, your changes might just get merged to the master and you would get labeled as a project contributor. Keep going for more now.
 
+!!! info "Didn't understand all of it? It is okay"
+    You are recommended to read it at least twice or thrice for it is quite normal for people to not understand this in their first try. Then maybe you would want to refer to some other source to study further about this or drop a message in our official channel for your queries. We would be glad to be of your assistance.
+
 You know what to do right now. But here is when you should do this all.
 
 * When you are assigned a task over a collaborative chat, you can follow the aforesaid method to add your part of the contributions.
 * When you see an active issue on a bugtracker, you can ask fixing to be assigned to you before you start adding your fixes to code.
+
+!!! warning "Things might change down the line"
+    Depending upon the sheer difference in the scale of the projects that the community would do down the line, these rules might just change. Any change in the rules would be informed here for your perusal.
 
 To protect the contributions made so far, the following must be kept in mind.
 
