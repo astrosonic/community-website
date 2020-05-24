@@ -1,0 +1,29 @@
+site_name: AstroSonic
+site_description: A provider of leading-edge open-source solutions to modern problems
+site_author: The AstroSonic Open-source Community
+site_url:
+theme:
+  name: material
+  features:
+    - instant
+  palette:
+    scheme: slate
+    primary: teal
+    accent: teal
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+nav:
+  - Welcome: index.md
+  - About: about.md
+  - Open-source: bdeal.md
+  - Justification: whycn.md
+  - Requirements: rneed.md
+  - Contribute: hwadd.md
+  - Workflow: wrkfl.md
+  - Methodology: wewrk.md
+  - Takeaways: tkawy.md
+  - Regulations: rules.md
