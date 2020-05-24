@@ -33,3 +33,6 @@ We believe that it is rules that make us humans and without them, we are no diff
 29. A contributing member can hold a position of responsibility in upto one division thus contributing in quality which would make them ineligible for membership in multiple divisions.
 30. Discussion about changes are encouraged though an implementation would be possible only after the unanimous agreement of the core team and voting by the community members.
 31. The projects made in the community would be made open-source and licensed under General Public License 3.0 until stated otherwise in rare circumstances by the core team.
+
+!!! warning "Things might change down the line"
+    Depending upon the sheer difference in the scale of the projects that the community would do down the line, these rules might just change. Any change in the rules would be informed here for your perusal.
