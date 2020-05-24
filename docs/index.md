@@ -1,5 +1,8 @@
 # Welcome to AstroSonic
 
+!!! tip "The registration form is out now!"
+    Visit [this link](https://forms.gle/i3FM5LyUVwC1jPwQ7) to fill in your details and join the community!
+
 !!! tip "Stay tuned"
     We are opening up the community for fellow interested contributors and will initiate the process of registration shortly. Details about how you can join the community would posted here.
 
