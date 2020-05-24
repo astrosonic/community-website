@@ -6,6 +6,9 @@
 !!! tip "Stay tuned"
     We are opening up the community for fellow interested contributors and will initiate the process of registration shortly. Details about how you can join the community would posted here.
 
+!!! success "This is our homestead"
+    Visit [this link](https://github.com/astrosonic/) to view our projects - Feel free to fork and contribute!
+
 We are a budding community of open-source developers with nothing but computing devices, coding competency and big dreams in our minds. The reason why we all unite here is to leverage technology and automation to build cool applications and services as a solution to modern day problems all while learning from the experiences and having fun. No matter how old you are or how experienced you are at developing sofwares – we do realize that there is a first time for everything.
 
 Many times, you might have dreamed of an awesome project and have gotten to work on it. Thousands of lines of code down with multiple assets built and bugs to fix, there is certainly a long way to go. But alas, you are quite unable to give your hundred percent of potential to it – be it because of monotonous assignments, meeting deadlines or just maintaining relationship with the partner of your dreams. It is okay. We all have been there and understand how sad it is to give up on a dream project.
