@@ -25,3 +25,6 @@ The following are definitely not the takeaways we offer.
 * You will not be offered any certificate as a proof your experience
 * You will not be provided any measurable evaluation for your performance
 * You will not be presented any perks or gifts of any kind
+
+!!! tip "What we believe"
+    Open-source is a thankless job but there is certainly joy in giving to the community. We understand that you might get a good amount of money for the lines of code that you write here but rarely would you get to plan things the way you would want them to be. Here you are in total control of what you should do.
