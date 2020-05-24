@@ -1,6 +1,3 @@
 [build]
 publish = "astrosonic"
-command = """
-pip3 install mkdocs-material &&
-mkdocs build -d astrosonic
-"""
+command = "pip3 install mkdocs && pip3 install mkdocs-material && mkdocs build -d astrosonic"
