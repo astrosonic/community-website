@@ -26,6 +26,20 @@ Check the project repository [here](https://github.com/astrosonic/sanctuary/)
 15. Active logging [`ISSUE #24`](https://github.com/astrosonic/sanctuary/issues/24)
 16. Store secrets/API keys in environment variables [`ISSUE #25`](https://github.com/astrosonic/sanctuary/issues/25)
 
+### There are 6 issues open in FORGE.
+
+Check the project repository [here](https://github.com/astrosonic/forge/).
+
+1. 2048-bit RSA can work with maximum 245 characters [`ISSUE #3`](https://github.com/astrosonic/forge/issues/3)
+2. No way to check directive integrity [`ISSUE #4`](https://github.com/astrosonic/forge/issues/4)
+3. Very long identification string for objects [`ISSUE #6`](https://github.com/astrosonic/forge/issues/6)
+4. Directive uniqueness is totally based ONLY on subject [`ISSUE #10`](https://github.com/astrosonic/forge/issues/10)
+5. Functionality to add/remove/leave groups after creation [`ISSUE #12`](https://github.com/astrosonic/forge/issues/12)
+6. Avoid field reset on an error code response [`ISSUE #13`](https://github.com/astrosonic/forge/issues/13)
+
+!!! question "How to address these issues?"
+    If you want to contribute to address these issues, comment under the issues and you will be assigned.
+
 ## Precedent events
 
 ### 25th May 2020
