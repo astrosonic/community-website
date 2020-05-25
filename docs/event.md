@@ -54,15 +54,11 @@ We had an open meet on 25th May 2020 at 4:20PM IST. There were about 21 particip
 !!! tip "Join the meeting via the link provided below"
     The meeting took place from 4:20PM IST to 5:00PM IST on 25th May 2020.
 
-!!! note "Invitation"
-    ![](pics/25May2020-Meet-1.png)
-
-!!! note "Notice"
-    ![](pics/25May2020-Meet-2.png)
-
 !!! tip "The posters are available for download"
-    * Click [here](pdfs/25May2020-Meet-1.pdf) to download the invitation poster for the meeting.
-    * Click [here](pdfs/25May2020-Meet-2.pdf) to download the notice poster for the meeting.
+    * Meeting invitation poster [PDF] [Download](pdfs/25May2020-Meet-1.pdf)
+    * Meeting invitation poster [PNG] [Download](pics/25May2020-Meet-1.png)
+    * Meeting notice poster [PDF] [Download](pdfs/25May2020-Meet-2.pdf)
+    * Meeting notice poster [PNG] [Download](pics/25May2020-Meet-2.png)
 
 ### 24th May 2020
 We opened up the registration on 24th May 2020. at 6:19PM IST to everyone. There is no limit as to who can join the community and everyone with big dreams and will to build good projects is more than welcome here.
