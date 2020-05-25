@@ -5,6 +5,27 @@
 
 ## Oncoming events
 
+### There are 16 issues open in Sanctuary.
+
+Check the project repository [here](https://github.com/astrosonic/sanctuary/)
+
+1.  Provide continuous tracking for chatroom properties [`ISSUE #4`](https://github.com/astrosonic/sanctuary/issues/4)
+2.  Profile picture rolls down to the middle part of the chat card [`ISSUE #6`](https://github.com/astrosonic/sanctuary/issues/6)
+3.  User is able to send empty messages [`ISSUE #9`](https://github.com/astrosonic/sanctuary/issues/9)
+4.  Provide whisper feature to specifically target recipient [`ISSUE #13`](https://github.com/astrosonic/sanctuary/issues/13)
+5.  Capability to upload PDF document [`ISSUE #14`](https://github.com/astrosonic/sanctuary/issues/14)
+6.  Capability to link YouTube videos [`ISSUE #15`](https://github.com/astrosonic/sanctuary/issues/15)
+7.  Capability to link Spotify music [`ISSUE #16`](https://github.com/astrosonic/sanctuary/issues/16)
+8.  Capability to upload local music files [`ISSUE #17`](https://github.com/astrosonic/sanctuary/issues/17)
+9.  Capability to upload local video files [`ISSUE #18`](https://github.com/astrosonic/sanctuary/issues/18)
+10. Providing online display for PDFs [`ISSUE #19`](https://github.com/astrosonic/sanctuary/issues/19)
+11. Providing online streaming for video [`ISSUE #20`](https://github.com/astrosonic/sanctuary/issues/20)
+12. Providing online streaming for audio [`ISSUE #21`](https://github.com/astrosonic/sanctuary/issues/21)
+13. Whisper feature for everyone [`ISSUE #22`](https://github.com/astrosonic/sanctuary/issues/22)
+14. Kick feature for everyone [`ISSUE #23`](https://github.com/astrosonic/sanctuary/issues/23)
+15. Active logging [`ISSUE #24`](https://github.com/astrosonic/sanctuary/issues/24)
+16. Store secrets/API keys in environment variables [`ISSUE #25`](https://github.com/astrosonic/sanctuary/issues/25)
+
 ## Precedent events
 
 ### 25th May 2020
