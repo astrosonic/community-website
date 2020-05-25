@@ -19,6 +19,7 @@ markdown_extensions:
 nav:
   - Welcome: index.md
   - About: about.md
+  - Events: event.md
   - Open-source: bdeal.md
   - Justification: whycn.md
   - Requirements: rneed.md
