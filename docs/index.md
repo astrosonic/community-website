@@ -4,7 +4,7 @@
     Visit [this link](https://forms.gle/i3FM5LyUVwC1jPwQ7) to fill in your details and join the community!
 
 !!! tip "Stay tuned"
-    We are opening up the community for fellow interested contributors and will initiate the process of registration shortly. Details about how you can join the community would posted here.
+    We have opened up the community for fellow interested contributors and initiated the process of registration. Details about how you can join the community is posted here.
 
 !!! success "This is our homestead"
     Visit [this link](https://github.com/astrosonic/) to view our projects - Feel free to fork and contribute!
