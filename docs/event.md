@@ -1,48 +1,32 @@
 # What events are ongoing?
 
 !!! warning "Things rapidly change around this page"
-    As events come and go, they get listed here as **ONCOMING** and **PRECEDENT** events. You would want to come here often to check on the events that our community has been up to.
+    As events come and go, they get listed here as **ONCOMING**, **CURRENT** and **PRECEDENT** events. You would want to come here often to check on the events that our community has been up to.
+
+!!! warning "The issues have been moved to a new section"
+    You can now find the issues in the newly created [Issues](probs.md) section.
 
 ## Oncoming events
 
-### There are 16 issues open in Sanctuary.
+### You are all caught up now
 
-Check the project repository [here](https://github.com/astrosonic/sanctuary/)
+## Current events
 
-1.  Provide continuous tracking for chatroom properties [`ISSUE #4`](https://github.com/astrosonic/sanctuary/issues/4)
-2.  Profile picture rolls down to the middle part of the chat card [`ISSUE #6`](https://github.com/astrosonic/sanctuary/issues/6)
-3.  User is able to send empty messages [`ISSUE #9`](https://github.com/astrosonic/sanctuary/issues/9)
-4.  Provide whisper feature to specifically target recipient [`ISSUE #13`](https://github.com/astrosonic/sanctuary/issues/13)
-5.  Capability to upload PDF document [`ISSUE #14`](https://github.com/astrosonic/sanctuary/issues/14)
-6.  Capability to link YouTube videos [`ISSUE #15`](https://github.com/astrosonic/sanctuary/issues/15)
-7.  Capability to link Spotify music [`ISSUE #16`](https://github.com/astrosonic/sanctuary/issues/16)
-8.  Capability to upload local music files [`ISSUE #17`](https://github.com/astrosonic/sanctuary/issues/17)
-9.  Capability to upload local video files [`ISSUE #18`](https://github.com/astrosonic/sanctuary/issues/18)
-10. Providing online display for PDFs [`ISSUE #19`](https://github.com/astrosonic/sanctuary/issues/19)
-11. Providing online streaming for video [`ISSUE #20`](https://github.com/astrosonic/sanctuary/issues/20)
-12. Providing online streaming for audio [`ISSUE #21`](https://github.com/astrosonic/sanctuary/issues/21)
-13. Whisper feature for everyone [`ISSUE #22`](https://github.com/astrosonic/sanctuary/issues/22)
-14. Kick feature for everyone [`ISSUE #23`](https://github.com/astrosonic/sanctuary/issues/23)
-15. Active logging [`ISSUE #24`](https://github.com/astrosonic/sanctuary/issues/24)
-16. Store secrets/API keys in environment variables [`ISSUE #25`](https://github.com/astrosonic/sanctuary/issues/25)
+### Opened on 25th May 2020
+We opened up the issues for existing projects on 25th May 2020. at 5:28PM IST to everyone. 
 
-### There are 6 issues open in FORGE.
+* 16 open issues available from [**Sanctuary**](https://github.com/astrosonic/sanctuary) - Find them [here](probs.md#sanctuary).
+* 6 open issues available from [**FORGE**](https://github/astrosonic/forge) - Find them [here](probs.md#forge).
 
-Check the project repository [here](https://github.com/astrosonic/forge/).
+### Opened on 24th May 2020
+We opened up the registration on 24th May 2020. at 6:19PM IST to everyone. There is no limit as to who can join the community and everyone with big dreams and will to build good projects is more than welcome here.
 
-1. 2048-bit RSA can work with maximum 245 characters [`ISSUE #3`](https://github.com/astrosonic/forge/issues/3)
-2. No way to check directive integrity [`ISSUE #4`](https://github.com/astrosonic/forge/issues/4)
-3. Very long identification string for objects [`ISSUE #6`](https://github.com/astrosonic/forge/issues/6)
-4. Directive uniqueness is totally based ONLY on subject [`ISSUE #10`](https://github.com/astrosonic/forge/issues/10)
-5. Functionality to add/remove/leave groups after creation [`ISSUE #12`](https://github.com/astrosonic/forge/issues/12)
-6. Avoid field reset on an error code response [`ISSUE #13`](https://github.com/astrosonic/forge/issues/13)
-
-!!! question "How to address these issues?"
-    If you want to contribute to address these issues, comment under the issues and you will be assigned.
+!!! tip "The registration form is out now!"
+    Visit [this link](https://forms.gle/i3FM5LyUVwC1jPwQ7) to fill in your details and join the community if you have not already!
 
 ## Precedent events
 
-### 25th May 2020
+### Completed on 25th May 2020
 We had an open meet on 25th May 2020 at 4:20PM IST. There were about 21 participants in total in the meet. 
 
 * We gave an introduction and and told why open-source is something to be considered while making projects.
@@ -60,8 +44,5 @@ We had an open meet on 25th May 2020 at 4:20PM IST. There were about 21 particip
     * Meeting notice poster [PDF] [Download](pdfs/25May2020-Meet-2.pdf)
     * Meeting notice poster [PNG] [Download](pics/25May2020-Meet-2.png)
 
-### 24th May 2020
-We opened up the registration on 24th May 2020. at 6:19PM IST to everyone. There is no limit as to who can join the community and everyone with big dreams and will to build good projects is more than welcome here.
-
-!!! tip "The registration form is out now!"
-    Visit [this link](https://forms.gle/i3FM5LyUVwC1jPwQ7) to fill in your details and join the community if you have not already!
+!!! warning "Find the gist of the meeting here"
+    Do not fret if you were unable to attend our meet somehow. We have included our presentation [here](pdfs/25May2020-Meet-Gist.pdf) so you do not miss out on the important stuff.
