@@ -1,8 +1,16 @@
 # What issues are open to contribution?
 
-## Bazooka Share
+## Image Augmentation OCR `5 issues available`
 
-### 12 issues available
+Check the repository here. https://github.com/astrosonic/Image-Augmentation-OCR/
+
+1. Add more augmentation types (https://github.com/astrosonic/Image-Augmentation-OCR/issues/1)
+2. Take user input for number of random augmented images (https://github.com/astrosonic/Image-Augmentation-OCR/issues/2)
+3. Complete overhaul of frontend (https://github.com/astrosonic/Image-Augmentation-OCR/issues/3)
+4. Display of searchable PDFs (https://github.com/astrosonic/Image-Augmentation-OCR/issues/4)
+5. Add a text box to display OCR output and copy to clipboard button (https://github.com/astrosonic/Image-Augmentation-OCR/issues/5)
+
+## Bazooka Share `12 issues available`
 
 Check the project repository [here](https://github.com/astrosonic/bazooka-share/).
 
@@ -19,9 +27,7 @@ Check the project repository [here](https://github.com/astrosonic/bazooka-share/
 11. Encrypting the transfer record using RSA4096 cryptography [**`ISSUE #28`**](https://github.com/astrosonic/bazooka-share/issues/28) **`OPEN`**
 12. Porting F.A.D.E. module entirely to C++ [**`ISSUE #29`**](https://github.com/astrosonic/bazooka-share/issues/29) **`OPEN`**
 
-## Sanctuary
-
-### 19 issues available
+## Sanctuary `19 issues available`
 
 Check the project repository [here](https://github.com/astrosonic/sanctuary/).
 
@@ -42,12 +48,10 @@ Check the project repository [here](https://github.com/astrosonic/sanctuary/).
 15. Active logging [**`ISSUE #24`**](https://github.com/astrosonic/sanctuary/issues/24) **`OPEN`**
 16. Store secrets/API keys in environment variables [**`ISSUE #25`**](https://github.com/astrosonic/sanctuary/issues/25) **`OPEN`**
 17. Rename chatroom input field placeholders [**`ISSUE #27`**](https://github.com/astrosonic/sanctuary/issues/27) [**`CLOSED`**](https://github.com/astrosonic/sanctuary/pull/30)
-18. Add a *Copy to Clipboard* button for chatroom ID [**`ISSUE #31`**](https://github.com/astrosonic/sanctuary/issues/31) [**`ASSIGNED`**](https://github.com/astrosonic/sanctuary/issues/31)
+18. Add a *Copy to Clipboard* button for chatroom ID [**`ISSUE #31`**](https://github.com/astrosonic/sanctuary/issues/31) [**`CLOSED`**](https://github.com/astrosonic/sanctuary/pull/32)
 19. Provide audio based chatting feature [**`ISSUE #34`**](https://github.com/astrosonic/sanctuary/issues/34) [**`ASSIGNED`**]((https://github.com/astrosonic/sanctuary/issues/34))
 
-## FORGE
-
-### 6 issues available
+## FORGE `6 issues available`
 
 Check the project repository [here](https://github.com/astrosonic/forge/).
 
