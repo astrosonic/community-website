@@ -15,13 +15,14 @@
 ### Opened on 27th May 2020
 We opened up the issues for existing projects on 27th May 2020. at 8:35AM IST to everyone.
 
-* 12 open issues available from [**Bazooka Share**](https://github.com/astrosonic/bazooka-share) - Find them [here](probs.md#bazooka-share).
+* 12 open issues available from [**Bazooka Share**](https://github.com/astrosonic/bazooka-share) - Find them [here](probs.md#bazooka-share-12-issues-available).
+* 5 open issues available from [**Image Augmentation OCR**](https://github.com/astrosonic/Image-Augmentation-OCR) - Find them [here](probs.md#image-augmentation-ocr-5-issues-available)
 
 ### Opened on 25th May 2020
 We opened up the issues for existing projects on 25th May 2020. at 5:28PM IST to everyone. 
 
-* 16 open issues available from [**Sanctuary**](https://github.com/astrosonic/sanctuary) - Find them [here](probs.md#sanctuary).
-* 6 open issues available from [**FORGE**](https://github/astrosonic/forge) - Find them [here](probs.md#forge).
+* 16 open issues available from [**Sanctuary**](https://github.com/astrosonic/sanctuary) - Find them [here](probs.md#sanctuary-19-issues-available).
+* 6 open issues available from [**FORGE**](https://github/astrosonic/forge) - Find them [here](probs.md#forge-6-issues-available).
 
 ### Opened on 24th May 2020
 We opened up the registration on 24th May 2020. at 6:19PM IST to everyone. There is no limit as to who can join the community and everyone with big dreams and will to build good projects is more than welcome here.
