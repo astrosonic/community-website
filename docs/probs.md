@@ -2,13 +2,13 @@
 
 ## Image Augmentation OCR `5 issues available`
 
-Check the repository here. https://github.com/astrosonic/Image-Augmentation-OCR/
+Check the repository [here](https://github.com/astrosonic/Image-Augmentation-OCR/).
 
-1. Add more augmentation types (https://github.com/astrosonic/Image-Augmentation-OCR/issues/1)
-2. Take user input for number of random augmented images (https://github.com/astrosonic/Image-Augmentation-OCR/issues/2)
-3. Complete overhaul of frontend (https://github.com/astrosonic/Image-Augmentation-OCR/issues/3)
-4. Display of searchable PDFs (https://github.com/astrosonic/Image-Augmentation-OCR/issues/4)
-5. Add a text box to display OCR output and copy to clipboard button (https://github.com/astrosonic/Image-Augmentation-OCR/issues/5)
+1. Add more augmentation types [**`ISSUE #1`**](https://github.com/astrosonic/Image-Augmentation-OCR/issues/1) **`OPEN`**
+2. Take user input for number of random augmented images [**`ISSUE #2`**](https://github.com/astrosonic/Image-Augmentation-OCR/issues/2) **`OPEN`**
+3. Complete overhaul of frontend [**`ISSUE #3`**](https://github.com/astrosonic/Image-Augmentation-OCR/issues/3) **`OPEN`**
+4. Display of searchable PDFs [**`ISSUE #4`**](https://github.com/astrosonic/Image-Augmentation-OCR/issues/4) **`OPEN`**
+5. Add a text box to display OCR output and copy to clipboard button [**`ISSUE #5`**](https://github.com/astrosonic/Image-Augmentation-OCR/issues/5) **`OPEN`**
 
 ## Bazooka Share `12 issues available`
 
