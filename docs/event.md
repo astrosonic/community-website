@@ -12,6 +12,11 @@
 
 ## Current events
 
+### Opened on 27th May 2020
+We opened up the issues for existing projects on 27th May 2020. at 8:35AM IST to everyone.
+
+* 12 open issues available from [**Bazooka Share**](https://github.com/astrosonic/bazooka-share) - Find them [here](probs.md#bazooka-share).
+
 ### Opened on 25th May 2020
 We opened up the issues for existing projects on 25th May 2020. at 5:28PM IST to everyone. 
 
