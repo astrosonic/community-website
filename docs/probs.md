@@ -1,5 +1,24 @@
 # What issues are open to contribution?
 
+## Bazooka Share
+
+### 12 issues available
+
+Check the project repository [here](https://github.com/astrosonic/bazooka-share/).
+
+1.  Ledger encryption using asymmetric key [**`ISSUE #4`**](https://github.com/astrosonic/bazooka-share/issues/4) **`OPEN`**
+2.  Random and non-linear file splitting and joining [**`ISSUE #5`**](https://github.com/astrosonic/bazooka-share/issues/5) **`OPEN`**
+3.  Benchmark encryption protocols [**`ISSUE #6`**](https://github.com/astrosonic/bazooka-share/issues/6) **`OPEN`**
+4.  Unsupported when block count is 10 or under [**`ISSUE #9`**](https://github.com/astrosonic/bazooka-share/issues/9) **`OPEN`**
+5.  Progress percentage display does not reach 100 [**`ISSUE #14`**](https://github.com/astrosonic/bazooka-share/issues/14) **`OPEN`**
+6.  Join model instance cannot be reused [**`ISSUE #15`**](https://github.com/astrosonic/bazooka-share/issues/15) **`OPEN`**
+7.  Limitation : PEP8 120 chars per line [**`ISSUE #22`**](https://github.com/astrosonic/bazooka-share/issues/22) **`OPEN`**
+8.  Method to test actual peer communications [**`ISSUE #25`**](https://github.com/astrosonic/bazooka-share/issues/25) **`OPEN`**
+9.  Encrypting the blocks one-by-one using AES256 cryptography [**`ISSUE #26`**](https://github.com/astrosonic/bazooka-share/issues/26) **`OPEN`**
+10. Storing the AES256 symmetric key in the transfer record [**`ISSUE #27`**](https://github.com/astrosonic/bazooka-share/issues/27) **`OPEN`**
+11. Encrypting the transfer record using RSA4096 cryptography [**`ISSUE #28`**](https://github.com/astrosonic/bazooka-share/issues/28) **`OPEN`**
+12. Porting F.A.D.E. module entirely to C++ [**`ISSUE #29`**](https://github.com/astrosonic/bazooka-share/issues/29) **`OPEN`**
+
 ## Sanctuary
 
 ### 18 issues available
