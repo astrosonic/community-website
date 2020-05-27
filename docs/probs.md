@@ -21,7 +21,7 @@ Check the project repository [here](https://github.com/astrosonic/bazooka-share/
 
 ## Sanctuary
 
-### 18 issues available
+### 19 issues available
 
 Check the project repository [here](https://github.com/astrosonic/sanctuary/).
 
@@ -43,6 +43,7 @@ Check the project repository [here](https://github.com/astrosonic/sanctuary/).
 16. Store secrets/API keys in environment variables [**`ISSUE #25`**](https://github.com/astrosonic/sanctuary/issues/25) **`OPEN`**
 17. Rename chatroom input field placeholders [**`ISSUE #27`**](https://github.com/astrosonic/sanctuary/issues/27) [**`CLOSED`**](https://github.com/astrosonic/sanctuary/pull/30)
 18. Add a *Copy to Clipboard* button for chatroom ID [**`ISSUE #31`**](https://github.com/astrosonic/sanctuary/issues/31) [**`ASSIGNED`**](https://github.com/astrosonic/sanctuary/issues/31)
+19. Provide audio based chatting feature [**`ISSUE #34`**](https://github.com/astrosonic/sanctuary/issues/34) **`OPEN`**
 
 ## FORGE
 
