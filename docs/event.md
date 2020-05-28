@@ -12,11 +12,16 @@
 
 ## Current events
 
+### Opned up on 28th May 2020
+We opened up the issues for the existing projects on 28th May 2020, at 12:02PM IST to everyone.
+
+* 15 open issues available from [**Community Website**](https://github.com/astrosonic/community-website/) - Find them [here](probs.md#community-website-15-issues-available).
+
 ### Opened on 27th May 2020
 We opened up the issues for existing projects on 27th May 2020. at 8:35AM IST to everyone.
 
 * 12 open issues available from [**Bazooka Share**](https://github.com/astrosonic/bazooka-share) - Find them [here](probs.md#bazooka-share-12-issues-available).
-* 5 open issues available from [**Image Augmentation OCR**](https://github.com/astrosonic/Image-Augmentation-OCR) - Find them [here](probs.md#image-augmentation-ocr-5-issues-available)
+* 5 open issues available from [**Image Augmentation OCR**](https://github.com/astrosonic/Image-Augmentation-OCR) - Find them [here](probs.md#image-augmentation-ocr-5-issues-available).
 
 ### Opened on 25th May 2020
 We opened up the issues for existing projects on 25th May 2020. at 5:28PM IST to everyone. 
