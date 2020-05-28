@@ -1,6 +1,26 @@
 # What issues are open to contribution?
 
-## Image Augmentation OCR `5 issues available`
+## Community Website `[15 issues available]`
+
+Check the repository [here](https://github.com/astrosonic/community-website/).
+
+1.  Need maintainers and reviewers for the welcome page [**`ISSUE #1`**](https://github.com/astrosonic/community-website/issues/1) **`OPEN`**
+2.  Need maintainers and reviewers for the about page [**`ISSUE #2`**](https://github.com/astrosonic/community-website/issues/2) **`OPEN`**
+3.  Need maintainers and reviewers for the open-source page [**`ISSUE #3`**](https://github.com/astrosonic/community-website/issues/3) **`OPEN`**
+4.  Need maintainers and reviewers for the justification page [**`ISSUE #4`**](https://github.com/astrosonic/community-website/issues/4) **`OPEN`**
+5.  Need maintainers and reviewers for the contribute page [**`ISSUE #5`**](https://github.com/astrosonic/community-website/issues/5) **`OPEN`**
+6.  Need maintainers and reviewers for the requirements page [**`ISSUE #6`**](https://github.com/astrosonic/community-website/issues/6) **`OPEN`**
+7.  Need maintainers and reviewers for the workflow page [**`ISSUE #7`**](https://github.com/astrosonic/community-website/issues/7) **`OPEN`**
+8.  Need maintainers and reviewers for the methodology page [**`ISSUE #8`**](https://github.com/astrosonic/community-website/issues/8) **`OPEN`**
+9.  Need maintainers and reviewers for the takeaways page [**`ISSUE #9`**](https://github.com/astrosonic/community-website/issues/9) **`OPEN`**
+10. Need maintainers and reviewers for the regulations page [**`ISSUE #10`**](https://github.com/astrosonic/community-website/issues/10) **`OPEN`**
+11. Need maintainers and reviewers for the events page [**`ISSUE #11`**](https://github.com/astrosonic/community-website/issues/11) **`OPEN`**
+12. Need maintainers and reviewers for the issues page [**`ISSUE #12`**](https://github.com/astrosonic/community-website/issues/12) **`OPEN`**
+13. Need maintainers and reviewers for the structure page [**`ISSUE #13`**](https://github.com/astrosonic/community-website/issues/13) **`OPEN`**
+14. Need maintainers and reviewers for the members page [**`ISSUE #14`**](https://github.com/astrosonic/community-website/issues/14) **`OPEN`**
+15. Need assets maintainer for the website [**`ISSUE #15`**](https://github.com/astrosonic/community-website/issues/15) **`OPEN`**
+
+## Image Augmentation OCR `[5 issues available]`
 
 Check the repository [here](https://github.com/astrosonic/Image-Augmentation-OCR/).
 
@@ -10,7 +30,7 @@ Check the repository [here](https://github.com/astrosonic/Image-Augmentation-OCR
 4. Display of searchable PDFs [**`ISSUE #4`**](https://github.com/astrosonic/Image-Augmentation-OCR/issues/4) **`OPEN`**
 5. Add a text box to display OCR output and copy to clipboard button [**`ISSUE #5`**](https://github.com/astrosonic/Image-Augmentation-OCR/issues/5) **`OPEN`**
 
-## Bazooka Share `12 issues available`
+## Bazooka Share `[12 issues available]`
 
 Check the project repository [here](https://github.com/astrosonic/bazooka-share/).
 
@@ -27,7 +47,7 @@ Check the project repository [here](https://github.com/astrosonic/bazooka-share/
 11. Encrypting the transfer record using RSA4096 cryptography [**`ISSUE #28`**](https://github.com/astrosonic/bazooka-share/issues/28) **`OPEN`**
 12. Porting F.A.D.E. module entirely to C++ [**`ISSUE #29`**](https://github.com/astrosonic/bazooka-share/issues/29) **`OPEN`**
 
-## Sanctuary `19 issues available`
+## Sanctuary `[19 issues available]`
 
 Check the project repository [here](https://github.com/astrosonic/sanctuary/).
 
@@ -51,7 +71,7 @@ Check the project repository [here](https://github.com/astrosonic/sanctuary/).
 18. Add a *Copy to Clipboard* button for chatroom ID [**`ISSUE #31`**](https://github.com/astrosonic/sanctuary/issues/31) [**`CLOSED`**](https://github.com/astrosonic/sanctuary/pull/32)
 19. Provide audio based chatting feature [**`ISSUE #34`**](https://github.com/astrosonic/sanctuary/issues/34) [**`ASSIGNED`**]((https://github.com/astrosonic/sanctuary/issues/34))
 
-## FORGE `6 issues available`
+## FORGE `[6 issues available]`
 
 Check the project repository [here](https://github.com/astrosonic/forge/).
 
