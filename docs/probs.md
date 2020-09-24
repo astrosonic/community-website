@@ -1,7 +1,5 @@
 # What issues are open to contribution?
 
-## Glad you asked
-
 You can keep up to date with all open issues and get contributing at our new [initiatives page](https://initiative.astrosonic.tech) now.
 
 !!! question "How to address these issues?"
