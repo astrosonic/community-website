@@ -16,6 +16,21 @@ Names are sorted in alphabetical order with no precedence.
 ### Mohit Gurav
 *Deep Learning Intern at Zerogons*
 
+### Prasanjit Mohpatra
+*Big Data Enthusiast*
+
+### Prateek Tripathy
+*Open Source Contributor*
+
+### Shivang Swain
+*Contributor at OpenCore Project*
+
+### Shubham Katte
+*Open Source Contributor
+
+### Vaibhav Saini
+*Deep Learning Intern at Zerogons*
+
 ## AstroSonic Community
 
 ### Aaditya Mankar
