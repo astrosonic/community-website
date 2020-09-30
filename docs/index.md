@@ -1,7 +1,7 @@
 # Welcome to AstroSonic
 
-!!! tip "The registration form is out now!"
-    Visit [this link](https://forms.gle/i3FM5LyUVwC1jPwQ7) to fill in your details and join the community!
+!!! tip "Our community is live on Discord!"
+    Visit [this link](https://bit.ly/astrosonic-discord) to join the community!
 
 !!! tip "Stay tuned"
     We have opened up the community for fellow interested contributors and initiated the process of registration. Details about how you can join the community is posted here.
