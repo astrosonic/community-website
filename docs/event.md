@@ -12,7 +12,28 @@
 
 ## Current events
 
-### Opned up on 28th May 2020
+### Opened up on 1st Oct 2020
+Make your first contribution to the open-source initiative and will some cool swags as well with Hacktoberfest!
+AstroSonic brings to you your own official Hacktoberfest event, **Hack @ AstroSonic** - where you can partake and
+contribute in over 15 repositories, this October.
+
+!!! tip "Enroll for the event now"
+    Visit [this link](https://organize.mlh.io/participants/events/4659-hack-astrosonic) to fill in your details and enroll for the event if you have not already!
+
+!!! tip "Here is the event schedule"
+    The event would take place **1st October 2020**, **11:30 UTC+05:30**. Be sure to mark this up on your calendar.
+
+!!! tip "The posters are available for download"
+    * Hacktoberfest invitation presentation [PDF] [Download](pdfs/AstroSonic-R1.pdf)
+    * Hacktoberfest invitation poster [JPEG] [Download](pics/welcome-to-hacktoberfest.jpeg)
+    * Invitation to contribute to `astrosonic/initiative` [PNG] [Download](pics/astrosonic-initiative.png)
+    * Invitation to contribute to `t0xic0der/syngrafias` [PNG] [Download](pics/astrosonic-syngrafias.png)
+    * Invitation to contribute to `t0xic0der/sysmon` [PNG] [Download](pics/astrosonic-sysmon.png)
+    * Invitation to contribute to `astrosonic/sanctuary` [PNG] [Download](pics/astrosonic-sanctuary.png)
+    * Invitation to contribute to `t0xic0der/sanctuary-zero` [PNG] [Download](pics/astrosonic-sanctuary-zero.png)
+    * Invitation to contribute to `VaibhavSaini19/BootBlox` [PNG] [Download](pics/astrosonic-bootblox.png)
+
+### Opened up on 28th May 2020
 We opened up the issues for the existing projects on 28th May 2020, at 12:02PM IST to everyone.
 
 * 15 open issues available from [**Community Website**](https://github.com/astrosonic/community-website/) - Find them [here](probs.md#community-website-15-issues-available).
