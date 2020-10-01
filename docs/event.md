@@ -27,10 +27,10 @@ contribute in over 15 repositories, this October.
     * Hacktoberfest invitation presentation [PDF] [Download](pdfs/AstroSonic-R1.pdf)
     * Hacktoberfest invitation poster [JPEG] [Download](pics/welcome-to-hacktoberfest.jpeg)
     * Invitation to contribute to `astrosonic/initiative` [PNG] [Download](pics/astrosonic-initiative.png)
-    * Invitation to contribute to `t0xic0der/syngrafias` [PNG] [Download](pics/astrosonic-syngrafias.png)
-    * Invitation to contribute to `t0xic0der/sysmon` [PNG] [Download](pics/astrosonic-sysmon.png)
     * Invitation to contribute to `astrosonic/sanctuary` [PNG] [Download](pics/astrosonic-sanctuary.png)
     * Invitation to contribute to `t0xic0der/sanctuary-zero` [PNG] [Download](pics/astrosonic-sanctuary-zero.png)
+    * Invitation to contribute to `t0xic0der/syngrafias` [PNG] [Download](pics/astrosonic-syngrafias.png)
+    * Invitation to contribute to `t0xic0der/sysmon` [PNG] [Download](pics/astrosonic-sysmon.png)
     * Invitation to contribute to `VaibhavSaini19/BootBlox` [PNG] [Download](pics/astrosonic-bootblox.png)
 
 ### Opened up on 28th May 2020
