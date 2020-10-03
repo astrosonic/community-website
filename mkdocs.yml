@@ -12,14 +12,12 @@ theme:
     scheme: slate
     primary: teal
     accent: teal
-
 markdown_extensions:
   - admonition
   - codehilite:
       guess_lang: false
   - toc:
       permalink: true
-
 nav:
   - Welcome: index.md
   - About: about.md
