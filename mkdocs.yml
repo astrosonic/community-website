@@ -3,6 +3,8 @@ site_description: A provider of leading-edge open-source solutions to modern pro
 site_author: The AstroSonic Open-source Community
 site_url:
 theme:
+  favicon: assets/actvsvge.svg
+  logo: assets/tealmain.png
   name: material
   features:
     - instant
@@ -10,12 +12,14 @@ theme:
     scheme: slate
     primary: teal
     accent: teal
+
 markdown_extensions:
   - admonition
   - codehilite:
       guess_lang: false
   - toc:
       permalink: true
+
 nav:
   - Welcome: index.md
   - About: about.md
