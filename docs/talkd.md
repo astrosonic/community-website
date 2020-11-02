@@ -26,7 +26,7 @@ Names are sorted in alphabetical order with no precedence.
 *Contributor at OpenCore Project*
 
 ### Shubham Katte
-*Open Source Contributor
+*Open Source Contributor*
 
 ### Vaibhav Saini
 *Deep Learning Intern at Zerogons*
@@ -42,8 +42,6 @@ Names are sorted in alphabetical order with no precedence.
 ### Mohit Thorat
 ### Muskan Pandey
 ### Nikhil Katte
-### Prasannjit Mohapatra
-### Prateek Tripathy
 ### Prathamesh Kadam
 ### Pratik Pawar
 ### Rajkumar yadav
@@ -51,7 +49,6 @@ Names are sorted in alphabetical order with no precedence.
 ### Sanjay Soni
 ### Sejal Oswal 
 ### Shahnaz P S
-### Shivang P Swain
 ### Shounak Dey
 ### Shubham Bombarde
 ### Shubham Katte
@@ -61,5 +58,4 @@ Names are sorted in alphabetical order with no precedence.
 ### Swapnil Murkute
 ### Tanmay Harshe 
 ### Tejaswini Ugale
-### Vaibhav Saini
 ### Vivek Wagaj
