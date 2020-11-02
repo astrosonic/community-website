@@ -44,14 +44,13 @@ Names are sorted in alphabetical order with no precedence.
 ### Nikhil Katte
 ### Prathamesh Kadam
 ### Pratik Pawar
-### Rajkumar yadav
+### Rajkumar Yadav
 ### Sachin Sahil
 ### Sanjay Soni
 ### Sejal Oswal 
 ### Shahnaz P S
 ### Shounak Dey
 ### Shubham Bombarde
-### Shubham Katte
 ### Smruti Ranjan Swain
 ### Sohan Sunil Patil
 ### Sumit Lovanshi
