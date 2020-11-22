@@ -1,13 +1,13 @@
 # Welcome to AstroSonic
 
 !!! tip "Our community is live on Discord!"
-    Visit [this link](https://bit.ly/astrosonic-discord) to join the community!
+    Visit [this link](https://links.astrosonic.tech/discord) to join the community!
 
 !!! tip "Stay tuned"
     We have opened up the community for fellow interested contributors and initiated the process of registration. Details about how you can join the community is posted here.
 
 !!! success "This is our homestead"
-    Visit [this link](https://github.com/astrosonic/) to view our projects - Feel free to fork and contribute!
+    Visit [this link](https://links.astrosonic.tech/github) to view our projects - Feel free to fork and contribute!
 
 We are a budding community of open-source developers with nothing but computing devices, coding competency and big dreams in our minds. The reason why we all unite here is to leverage technology and automation to build cool applications and services as a solution to modern day problems all while learning from the experiences and having fun. No matter how old you are or how experienced you are at developing sofwares – we do realize that there is a first time for everything.
 
